@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c67b1958.css",
+    "main.js": "/static/js/main.df37e180.js",
+    "static/js/453.c40a5df7.chunk.js": "/static/js/453.c40a5df7.chunk.js",
+    "static/media/landing_pic.png": "/static/media/landing_pic.66d4842f4278ee072004.png",
+    "static/media/2-3.png": "/static/media/2-3.cd52a947ba5ae76af1de.png",
+    "static/media/logo.png": "/static/media/logo.c83d178acde7d8f357ba.png",
+    "static/media/0-3.jpg": "/static/media/0-3.f3d5ede3c26a0824ed35.jpg",
+    "static/media/1-3.jpg": "/static/media/1-3.6175d16d1026eaf52ca1.jpg",
+    "static/media/tng_qr.jpeg": "/static/media/tng_qr.69a883e8bb6b9969cfff.jpeg",
+    "static/media/past_event.png": "/static/media/past_event.079d91519a0fdc0fa41e.png",
+    "static/media/maybank_qr.jpeg": "/static/media/maybank_qr.28ad59aeafd7f87140d8.jpeg",
+    "static/media/abt_us.png": "/static/media/abt_us.66e60a57dfa2305a067a.png",
+    "index.html": "/index.html",
+    "main.c67b1958.css.map": "/static/css/main.c67b1958.css.map",
+    "main.df37e180.js.map": "/static/js/main.df37e180.js.map",
+    "453.c40a5df7.chunk.js.map": "/static/js/453.c40a5df7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c67b1958.css",
+    "static/js/main.df37e180.js"
+  ]
+}
